@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://devJacks:Mydogturk5@fitnessapp-ab3d8.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "95574116q"
+}
